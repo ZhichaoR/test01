@@ -30,6 +30,9 @@ public class User {
     int a=0;
    public String b="测试";
 
+
+
+
 //    int b=2
 //nihao 我是...
     public String getName() {
