@@ -16,15 +16,20 @@
 
 package com.test01.test.demos.web;
 
+import org.springframework.stereotype.Component;
+
 /**
  * @author <a href="mailto:chenxilzx1@gmail.com">theonefx</a>
  */
+@Component
 public class User {
 
     private String name;
 
     private Integer age;
     int a=0;
+   public String b="测试";
+
 //    int b=2
 //nihao 我是...
     public String getName() {
