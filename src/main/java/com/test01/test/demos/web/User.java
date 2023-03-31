@@ -25,7 +25,8 @@ public class User {
 
     private Integer age;
     int a=0;
-
+//    int b=2
+//nihao 我是...
     public String getName() {
         return name;
     }
