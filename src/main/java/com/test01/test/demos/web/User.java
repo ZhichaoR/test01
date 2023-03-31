@@ -24,6 +24,7 @@ public class User {
     private String name;
 
     private Integer age;
+    int a=0;
 
     public String getName() {
         return name;
